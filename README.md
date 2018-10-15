@@ -13,9 +13,9 @@ DOB: __1/19/02__
 ___
 
 ## Sports 
-- Volleyball 
-- Basketball 
-- football 
+   - Volleyball 
+   - Basketball 
+   - football 
 ---
 ## Schedule 
 1. English 
